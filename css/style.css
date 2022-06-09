@@ -1,6 +1,6 @@
 @font-face {
     font-family: dashafont;
-    src: url("/font/dashfont.ttf");
+    src: url("./../font/dashfont.ttf");
 }
 body {
     font-family: dashafont, "Comic Sans MS", "Comic Sans", cursive;
